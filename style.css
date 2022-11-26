@@ -9,6 +9,6 @@ span {color: grey;}
 img {width: 150px; 
     height: 150px;}
 
-section, header {padding: 10px 60px 20px 60px; background-color: white; width: 960px; margin: 0 auto;}
+section, header {padding: 20px 60px 20px 60px; background-color: white; width: 960px; margin: 0 auto;}
 
-
+header {display: flex; align-items: center; justify-content: space-between;}
